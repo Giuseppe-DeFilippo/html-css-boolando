@@ -58,3 +58,23 @@ display: grid;
 .column{
 flex-direction: column;
 }
+/*modifiche colori*/
+.text-transofrm{
+    text-transform: uppercase;
+}
+.text-red{
+color: red;
+font-weight: bold;
+}
+.text-decoration{
+color: black;
+text-decoration: line-through;
+font-weight: 500;
+}
+.padding-text{
+    padding-left: 5px;
+}
+/*font per le descrizioni*/
+h4{
+    font-size: 12px;
+}
