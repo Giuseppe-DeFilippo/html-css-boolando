@@ -46,6 +46,10 @@ max-width: 80px;
 .align-center{
     justify-content: space-around;
 }
+.padding-footer{
+padding-bottom: 30px;
+padding-top: 20px;
+}
 .margin-top{
     margin-top: 40px;
 }
@@ -77,4 +81,13 @@ font-weight: 500;
 /*font per le descrizioni*/
 h4{
     font-size: 12px;
+}
+.bgcolor-footer{
+background-color: var(--color-black);
+}
+.border-loghi{
+border:2px solid white;
+background-color: white;
+width: 25px;
+height: 30px;
 }
