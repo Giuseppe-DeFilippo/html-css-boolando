@@ -43,6 +43,29 @@ color: white;
 min-width: 300px;
 max-width: 80px;
 }
+/*prove*/
+.img-hover{
+    display: none;
+}
+
+.column:hover .img-main{
+display: none;
+}
+.column:hover .hearth{
+    color: red;
+}
+.column:hover .hearth2{
+    color: red;
+}
+.column:hover .hearth3{
+    color: red;
+}
+.column:hover .img-hover{
+display: inline-block;
+}
+   
+/*fine prove*/
+
 .align-center{
     justify-content: space-around;
 }
@@ -91,6 +114,7 @@ background-color: white;
 width: 25px;
 height: 30px;
 }
+/*position design*/
 .hearth{
     position:relative;
     bottom: 500px;
