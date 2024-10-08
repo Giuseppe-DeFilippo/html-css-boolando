@@ -91,6 +91,36 @@ background-color: white;
 width: 25px;
 height: 30px;
 }
+.hearth{
+    position:relative;
+    bottom: 500px;
+    left: 270px;
+    width: 30px;
+    height: 25px;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.hearth2{
+    position:relative;
+    bottom: 485px;
+    left: 270px;
+    width: 30px;
+    height: 25px;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.hearth3{
+        position:relative;
+        bottom: 467px;
+        left: 270px;
+        width: 30px;
+        height: 25px;
+        background-color: white;
+        font-weight: bold;
+        text-align: center;
+    }
 .position{
     position:relative;
     bottom: 98px;
