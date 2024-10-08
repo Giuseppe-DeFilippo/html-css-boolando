@@ -11,9 +11,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-.debug{
+/*.debug{
     border: solid red;
-}
+}*/
 .d-flex{
     display: flex;
 }
